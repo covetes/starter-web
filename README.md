@@ -23,3 +23,6 @@ Comentarios
 
 ## How to contribute
 Add something
+
+
+2023 Training, todos los derechos reservados

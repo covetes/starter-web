@@ -18,3 +18,6 @@ Este es el último cambio
 
 ##Copyright
 Comentarios
+
+## How to contribute
+Add something

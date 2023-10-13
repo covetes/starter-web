@@ -24,5 +24,7 @@ Comentarios
 ## How to contribute
 Add something
 
+Añado cosas para ver el tema de los tags
+
 
 2023 Training, todos los derechos reservados

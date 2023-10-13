@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding some more data for the purpose
+More changes from myfeatures
 
 ## Purpose
 
